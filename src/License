@@ -1,0 +1,5 @@
+### 5. **requirements.txt:**
+
+```bash
+PyMuPDF
+huggingface_hub
